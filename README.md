@@ -1,5 +1,5 @@
 # Implementation of Multivariate Linear Regression
-## Aim
+## Aim:
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
 1.	Hardware – PCs
@@ -55,5 +55,5 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 ![Screenshot 2025-05-20 182243](https://github.com/user-attachments/assets/c265d632-0c20-4e16-83a0-feadf466e25a)
 
 
-## Result
+## Result:
 Thus the multivariate linear regression is implemented and predicted the output using python program.
